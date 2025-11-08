@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Vibe T-Shirt", "price": 19.99, "desc": "Soft cotton tee" },
+  { "id": 2, "name": "Vibe Hoodie", "price": 49.99, "desc": "Cozy hoodie" },
+  { "id": 3, "name": "Vibe Cap", "price": 14.99, "desc": "Adjustable cap" },
+  { "id": 4, "name": "Vibe Mug", "price": 9.99, "desc": "Ceramic mug" },
+  { "id": 5, "name": "Vibe Sticker Pack", "price": 4.99, "desc": "Set of 5 stickers" }
+]
